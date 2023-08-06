@@ -1,0 +1,47 @@
+5th Aug, 2023 (Saturday)
+
+https://code.visualstudio.com/
+https://www.postman.com/
+https://dbeaver.io/
+https://git-scm.com/
+https://github.com/
+https://render.com/
+
+commands
+pwd => print working directory
+cd => change directory
+ls => print files and folder inside the directory
+mkdir => make directory is used to create a directory
+clear
+touch is used to create a file
+vim
+cat
+head
+tail
+rm 
+rmdir
+find
+mv
+cp
+
+python3 -m venv project_env
+source project_env/scripts/activate using git bash
+or 
+source project_env/bin/activate
+
+pip3 install django
+
+django-admin startproject my_project .
+
+env manage.py my_project/settings.py
+
+python3 manage.py runserver
+
+python3 manage.py startapp persons_app (create an app inside a project)
+
+Other frameworks apart from django are (flask, pyramid,fast api) - these are minimalistic and low level than django. Django is used for scalable applications. 
+Django is robust, not mimimalistic.
+
+Advanced concept - Database routing in django (mutliple databases for the same project) https://docs.djangoproject.com/en/4.2/topics/db/multi-db/#database-routers(read about this)
+
+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 (github personal access token)
